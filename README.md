@@ -33,13 +33,7 @@
 **Languages:** C, C++, Java, JavaScript, Python  
 **Web Development:** React.js, Next.js, Node.js, Express.js, MongoDB  
 **ML & AI:** TensorFlow, PyTorch, OpenCV  
-**Tools:** Git, Docker, Wireshark, VS Code  
-
----
-
-## 🏆 Highlights  
-- Selected in **Buildspace S5**  
-- 425+ Problems solved on [LeetCode](https://leetcode.com/u/Mittal_Piyush_Pm/)   
+**Tools:** Git, Docker, Wireshark, VS Code    
 
 ---
 
