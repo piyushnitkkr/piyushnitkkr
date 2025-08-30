@@ -1,6 +1,6 @@
 # Hi, I'm Piyush Mittal 👋  
 
-🎓 B.Tech in Information Technology @ **NIT Kurukshetra**
+🎓 B.Tech in Information Technology @ **NIT Kurukshetra**       
 💡 Passionate about **Web Development, AI, and System Design**  
 📍 Currently exploring **Machine Learning + Scalable Systems**  
 
@@ -39,13 +39,12 @@
 
 ## 🏆 Highlights  
 - Selected in **Buildspace S5**  
-- 350+ Problems solved on [LeetCode](https://leetcode.com/u/Mittal_Piyush_Pm/)  
-- Volunteered for **Fit India Movement 2023-24**  
+- 350+ Problems solved on [LeetCode](https://leetcode.com/u/Mittal_Piyush_Pm/)   
 
 ---
 
 ## 📫 Connect With Me  
 
-[LinkedIn](https://www.linkedin.com/in/piyush-m-79a993280) • [GitHub](https://github.com/piyushnitkkr) • [Email](mailto:piyushmittal78441@gmail.com) • [Portfolio](https://ai-emotion-tracker.vercel.app/)  
+[LinkedIn](https://www.linkedin.com/in/piyush-m-79a993280) • [GitHub](https://github.com/piyushnitkkr) • [Email](mailto:piyushmittal78441@gmail.com) 
 
 ---
