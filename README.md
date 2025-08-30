@@ -39,7 +39,7 @@
 
 ## 🏆 Highlights  
 - Selected in **Buildspace S5**  
-- 350+ Problems solved on [LeetCode](https://leetcode.com/u/Mittal_Piyush_Pm/)   
+- 425+ Problems solved on [LeetCode](https://leetcode.com/u/Mittal_Piyush_Pm/)   
 
 ---
 
