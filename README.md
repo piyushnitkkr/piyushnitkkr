@@ -1,6 +1,6 @@
 # Hi, I'm Piyush Mittal 👋  
 
-🎓 B.Tech in Information Technology @ **NIT Kurukshetra** (CGPA: 9.0)  
+🎓 B.Tech in Information Technology @ **NIT Kurukshetra**
 💡 Passionate about **Web Development, AI, and System Design**  
 📍 Currently exploring **Machine Learning + Scalable Systems**  
 
