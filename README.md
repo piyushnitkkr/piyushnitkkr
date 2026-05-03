@@ -111,4 +111,4 @@ Git, Docker, Wireshark, Cisco Packet Tracer, Tinkercad
 
 ---
 
-⭐ *Open to internships, collaborations, and challenging engineering problems.*
+⭐ *Open to jobs, collaborations, and challenging engineering problems.*
