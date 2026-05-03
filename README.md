@@ -1,114 +1,138 @@
-# Hi, I'm Piyush Mittal 👋  
+<h1 align="center">Hi 👋, I'm Piyush Mittal</h1>
+<h3 align="center">🚀 AI Systems • Machine Learning • Full-Stack Engineering</h3>
 
-🎓 B.Tech in Information Technology @ **NIT Kurukshetra (CGPA: 8.92)**  
-💡 Focused on **AI Systems, Scalable Backend & Real-World ML Applications**  
-🚀 Building projects at the intersection of **Machine Learning + System Design**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyushnitkkr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🧠 About Me  
 
-- Strong foundation in **Data Structures, OS, DBMS, and Computer Networks**  
-- Experienced in building **end-to-end ML systems (data → model → deployment)**  
-- Passionate about solving **real-world problems using AI + scalable systems**  
+🎓 B.Tech IT @ **NIT Kurukshetra (CGPA: 8.92)**  
+💡 Building **AI-powered real-world systems**  
+⚙️ Interested in **System Design + Scalable ML Pipelines**  
+
+- Strong in **DSA, OS, DBMS, CN**
+- Love building **end-to-end ML systems (data → model → deployment)**
+- Currently exploring **AI in finance + distributed systems**
 
 ---
 
-## 💼 Experience  
+## 🛠️ Tech Stack  
 
-### **Campus Ambassador — GeeksforGeeks**
-- Conducted **DSA workshops** and enabled peer learning on campus  
-- Increased awareness of technical resources through campaigns  
+### 💻 Languages  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 
-### **Internshala Student Partner**
-- Led campaigns connecting **200+ students to internships**  
-- Built strong communication and outreach strategies  
+### 🌐 Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
+
+### 🤖 Machine Learning  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge)
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
-### 🧠 MindSketch — Emotion Detection from Sketches  
+### 🧠 MindSketch — Emotion Detection System  
 🔗 https://ai-emotion-tracker.vercel.app/  
 
-- Built a **full-stack AI system** using **React + FastAPI + TensorFlow**  
-- Trained custom CNN on **QuickDraw dataset → 88% accuracy**  
-- Real-time inference pipeline with **interactive drawing canvas**  
-- Deployed using **Vercel (frontend) + Render (backend microservices)**  
-- Improved engagement by **60% via live visualization + mood tracking**  
+- Built full-stack AI app (**React + FastAPI + TensorFlow**)  
+- Custom CNN → **88% accuracy**  
+- Real-time sketch input → instant emotion prediction  
+- Deployed with **Vercel + Render**  
+- 📈 Increased engagement by **60%**
 
 ---
 
-### 📈 AI Stock Predictor (Nifty 50)  
+### 📈 AI Stock Predictor  
 🔗 https://github.com/piyushnitkkr/ai-stock-predictor  
 
-- Designed an **ensemble ML system (Transformer + XGBoost)**  
-- Achieved **~70% prediction accuracy** on intraday movements  
-- Built feature pipeline with **22 indicators → top 10 via ensemble selection**  
-- Integrated **news sentiment analysis + sector strength modeling**  
-- Developed **interactive Streamlit dashboard for real-time insights**  
+- Transformer + XGBoost ensemble model  
+- **70% accuracy** on Nifty 50 predictions  
+- 22 → 10 feature selection pipeline  
+- Sentiment analysis + sector modeling  
+- Built interactive **Streamlit dashboard**
 
 ---
 
 ### 🚦 Smart Traffic Control System  
 🔗 https://github.com/piyushnitkkr/Smart-Traffic-Control  
 
-- Developed **YOLOv5-based real-time traffic optimization system**  
-- Trained on **6K+ images (IDD dataset)** → **88.6% accuracy**  
-- Improved detection precision by **34%**  
-- Reduced average lane wait time by **22%**  
-- Designed weighted scoring algorithm for adaptive signal timing  
+- YOLOv5-based real-time traffic optimization  
+- Trained on **6K+ images → 88.6% accuracy**  
+- Reduced wait time by **22%**  
+- Adaptive signal algorithm (weighted scoring)
 
 ---
 
 ### 📚 Smart Study Hub  
 🔗 https://smart-hub-zrd3.vercel.app/  
 
-- Built full-stack collaborative platform using **React + Node + MongoDB**  
-- Features: real-time chat, file sharing, authentication  
-- Focused on **scalable backend + user interaction design**  
+- Full-stack collaboration platform  
+- Chat, file sharing, authentication  
+- Built with **React + Node + MongoDB**
 
 ---
 
-## 🛠️ Technical Skills  
+## 📊 GitHub Stats  
 
-**Languages:**  
-C, C++, Java, JavaScript, Python  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushnitkkr&show_icons=true&theme=tokyonight" />
+</p>
 
-**Web Development:**  
-React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushnitkkr&theme=tokyonight" />
+</p>
 
-**Machine Learning & AI:**  
-TensorFlow, PyTorch, OpenCV, CNNs, Feature Engineering  
-
-**Tools & Systems:**  
-Git, Docker, Wireshark, Cisco Packet Tracer, Tinkercad  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushnitkkr&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 Achievements & Activities  
+## 📈 Achievements  
 
-- Solved **1000+ DSA problems** across coding platforms  
-- Selected for **Buildspace Season 5**  
-- Active participant in technical and innovation communities  
-- Volunteer in **Fit India Movement (2023-24)**  
+- Solved **1000+ DSA problems**  
+- Selected for **Buildspace S5**  
+- Organized DSA workshops (GeeksforGeeks)  
+- Helped **200+ students** get internships  
 
 ---
 
 ## 📫 Connect With Me  
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/piyush-m-79a993280  
-- 💻 GitHub: https://github.com/piyushnitkkr  
-- 📧 Email: piyushmittal78441@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-m-79a993280"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:piyushmittal78441@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/piyushnitkkr"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
 ## ⚡ Current Focus  
 
-- Scaling **AI systems from prototype → production**  
-- Learning **System Design & Distributed Systems**  
-- Exploring **Quant + AI (financial ML systems)**  
+- Scaling **AI systems → production level**  
+- Learning **Distributed Systems & Backend Architecture**  
+- Exploring **Quantitative ML (Finance + AI)**  
 
 ---
 
-⭐ *Open to jobs, collaborations, and challenging engineering problems.*
+<p align="center">
+🔥 <b>Always open to internships, collaborations & impactful projects</b>
+</p>
