@@ -45,7 +45,7 @@ Git • Wireshark • Cisco Packet Tracer • Tinkercad
 ---
 
 ### 📈 AI Stock Predictor  
-🔗 https://github.com/piyushnitkkr/ai-stock-predictor  
+🔗 https://ai-stock-predictor-test.streamlit.app/
 
 - Developed ensemble ML system using **Transformer + XGBoost**  
 - Achieved **~70% accuracy** on Nifty 50 predictions  
