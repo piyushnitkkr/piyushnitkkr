@@ -1,49 +1,33 @@
 <h1 align="center">Hi 👋, I'm Piyush Mittal</h1>
 <h3 align="center">🚀 AI Systems • Machine Learning • Full-Stack Engineering</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushnitkkr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧠 About Me  
 
 🎓 B.Tech IT @ **NIT Kurukshetra (CGPA: 8.92)**  
-💡 Building **AI-powered real-world systems**  
-⚙️ Interested in **System Design + Scalable ML Pipelines**  
+💡 Focused on building **AI-powered real-world applications**  
+⚙️ Interested in **Machine Learning + Backend Systems**  
 
-- Strong in **DSA, OS, DBMS, CN**
-- Love building **end-to-end ML systems (data → model → deployment)**
-- Currently exploring **AI in finance + distributed systems**
+- Strong foundation in **DSA, OS, DBMS, Computer Networks**  
+- Experience building **end-to-end ML systems (data → model → deployment)**  
+- Exploring **AI applications in real-world domains like finance and vision**
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
+C • C++ • Java • Python • JavaScript  
 
 ### 🌐 Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
+React.js • Next.js • Node.js • Express.js • MongoDB • MySQL • Tailwind CSS  
 
 ### 🤖 Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge)
+TensorFlow • PyTorch • OpenCV  
 
 ### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+Git • Wireshark • Cisco Packet Tracer • Tinkercad  
 
 ---
 
@@ -52,87 +36,68 @@
 ### 🧠 MindSketch — Emotion Detection System  
 🔗 https://ai-emotion-tracker.vercel.app/  
 
-- Built full-stack AI app (**React + FastAPI + TensorFlow**)  
-- Custom CNN → **88% accuracy**  
-- Real-time sketch input → instant emotion prediction  
-- Deployed with **Vercel + Render**  
-- 📈 Increased engagement by **60%**
+- Built full-stack AI application using **React + FastAPI + TensorFlow**  
+- Trained custom CNN → **88% accuracy**  
+- Real-time sketch input with instant emotion prediction  
+- Deployed using **Vercel + Render**  
+- Improved engagement through live canvas and mood tracking  
 
 ---
 
 ### 📈 AI Stock Predictor  
 🔗 https://github.com/piyushnitkkr/ai-stock-predictor  
 
-- Transformer + XGBoost ensemble model  
-- **70% accuracy** on Nifty 50 predictions  
-- 22 → 10 feature selection pipeline  
-- Sentiment analysis + sector modeling  
-- Built interactive **Streamlit dashboard**
+- Developed ensemble ML system using **Transformer + XGBoost**  
+- Achieved **~70% accuracy** on Nifty 50 predictions  
+- Engineered feature pipeline (22 → top 10 features)  
+- Integrated sentiment analysis and sector-based signals  
+- Built interactive **Streamlit dashboard**  
 
 ---
 
 ### 🚦 Smart Traffic Control System  
 🔗 https://github.com/piyushnitkkr/Smart-Traffic-Control  
 
-- YOLOv5-based real-time traffic optimization  
+- Built YOLOv5-based real-time traffic optimization system  
 - Trained on **6K+ images → 88.6% accuracy**  
-- Reduced wait time by **22%**  
-- Adaptive signal algorithm (weighted scoring)
+- Improved detection precision and reduced lane wait time by **22%**  
+- Designed adaptive signal logic using weighted scoring  
 
 ---
 
 ### 📚 Smart Study Hub  
 🔗 https://smart-hub-zrd3.vercel.app/  
 
-- Full-stack collaboration platform  
-- Chat, file sharing, authentication  
-- Built with **React + Node + MongoDB**
+- Full-stack collaboration platform using **React + Node + MongoDB**  
+- Features: real-time chat, file sharing, authentication  
+- Focused on scalable backend design and user experience  
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushnitkkr&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushnitkkr&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushnitkkr&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Achievements  
+## 📊 Achievements  
 
 - Solved **1000+ DSA problems**  
-- Selected for **Buildspace S5**  
+- Selected for **Buildspace Season 5**  
 - Organized DSA workshops (GeeksforGeeks)  
-- Helped **200+ students** get internships  
 
 ---
 
 ## 📫 Connect With Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-m-79a993280"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:piyushmittal78441@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/piyushnitkkr"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
+- 🔗 LinkedIn: https://www.linkedin.com/in/piyush-m-79a993280  
+- 💻 GitHub: https://github.com/piyushnitkkr  
+- 📧 Email: piyushmittal78441@gmail.com  
 
 ---
 
 ## ⚡ Current Focus  
 
-- Scaling **AI systems → production level**  
-- Learning **Distributed Systems & Backend Architecture**  
-- Exploring **Quantitative ML (Finance + AI)**  
+- Building **production-ready AI systems**  
+- Improving **backend and system design skills**  
+- Exploring **ML applications in finance and computer vision**  
 
 ---
 
 <p align="center">
-🔥 <b>Always open to internships, collaborations & impactful projects</b>
+🔥 <b>Open to opportunities, roles, and impactful projects</b>
 </p>
