@@ -18,20 +18,33 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-C • C++ • Java • Python • JavaScript  
+C • C++ • Java • Python • JavaScript • TypeScript
 
-### 🌐 Web Development  
-React.js • Next.js • Node.js • Express.js • MongoDB • MySQL • Tailwind CSS  
+### 🌐 Web & Mobile Development  
+React.js • React Native (Expo) • Next.js • Node.js • Express.js • FastAPI • MongoDB • MySQL • Tailwind CSS  
 
-### 🤖 Machine Learning  
-TensorFlow • PyTorch • OpenCV  
+### 🤖 Machine Learning & AI  
+TensorFlow • PyTorch • OpenCV • Llama (Groq) • VADER Sentiment • ML Kit
 
 ### ⚙️ Tools  
-Git • Wireshark • Cisco Packet Tracer • Tinkercad  
+Git • Firebase • EAS Build • Railway • GitHub Pages • Wireshark • Cisco Packet Tracer • Tinkercad  
 
 ---
 
 ## 🚀 Featured Projects  
+
+### 💊 WellBuddy — AI-Powered Health Companion App  
+🔗 https://piyushnitkkr.github.io/Well-Buddy/ &nbsp;|&nbsp; 📥 [Download APK](https://expo.dev/accounts/piyushmittalpms-organization/projects/well-buddy/builds/ec8eb46e-1409-4b7e-b579-a22ae06bae25) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/piyushnitkkr/Well-Buddy)
+
+- Built a **full-stack AI health companion** using **React Native (Expo) + Node.js + Python FastAPI**  
+- Integrated **Llama 4 Scout (Groq)** for AI prescription OCR — extracts medicine names, dosages & frequency from scanned images  
+- Powered **AI wellness chatbot** using **Llama 3.3 70B (Groq)** with VADER sentiment analysis for mental health support  
+- Implemented **recurring daily medicine notifications** using Expo Notifications with per-slot scheduling  
+- Synced **Google Fit** data (steps, calories, activity) into a real-time health dashboard  
+- Deployed backend on **Railway**, database on **MongoDB Atlas**, website on **GitHub Pages**  
+- Built complete **Privacy Policy, Terms of Service & landing page** for Play Store compliance  
+
+---
 
 ### 🧠 MindSketch — Emotion Detection System  
 🔗 https://ai-emotion-tracker.vercel.app/  
