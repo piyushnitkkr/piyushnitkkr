@@ -90,8 +90,8 @@ Git • Firebase • EAS Build • Railway • GitHub Pages • Wireshark • Ci
 ## 📊 Achievements  
 
 - Solved **1000+ DSA problems**  
-- Selected for **Buildspace Season 5**  
-- Organized DSA workshops (GeeksforGeeks)  
+- Selected for **MLSS Amazon**  
+- In top 300 in **Amazon Hackon**
 
 ---
 
