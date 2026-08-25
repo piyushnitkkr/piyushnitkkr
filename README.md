@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-C • C++ • Java • Python • JavaScript • TypeScript • SQL
+C • C++ • Java • Python • JavaScript • SQL
 
 ### 🌐 Web & Mobile Development  
 React.js • React Native (Expo) • Next.js • Node.js • Express.js • FastAPI • MongoDB • MySQL • Tailwind CSS  
